@@ -9,3 +9,4 @@
 - create PR
 - understand forking
 - understanding conflicts-Rashi
+-branch conflicts to be resolved
